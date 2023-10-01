@@ -1,4 +1,3 @@
-[![MasterHead](https://cutewallpaper.org/21x/0txjpazqv/3-Ways-to-Build-Your-Thought-Leadership-Through-LinkedIn-.jpg)
 <h1 align="center">Hi 👋, I'm Amit Sinha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
