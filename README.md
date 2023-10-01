@@ -1,9 +1,7 @@
-[![MasterHead](https://www.canva.com/templates/EAFHlPbzjjU-blue-geometric-technology-linkedin-banner/)
+[![MasterHead](https://cutewallpaper.org/21x/0txjpazqv/3-Ways-to-Build-Your-Thought-Leadership-Through-LinkedIn-.jpg)
 <h1 align="center">Hi 👋, I'm Amit Sinha</h1>
-<h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsinha577&label=Profile%20views&color=0e75b6&style=flat" alt="amitsinha577" /> </p>
+<h3 align="center">A passionate software developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -30,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsinha577&show_icons=true&locale=en&layout=compact" alt="amitsinha577" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitsinha577&show_icons=true&locale=en" alt="amitsinha577" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitsinha577&" alt="amitsinha577" /></p>
