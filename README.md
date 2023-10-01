@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Sinha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<h3>First of all, thanks for visiting my profile. Here, what you should know about me:
-
-</h3>
+<h3>First of all, thanks for visiting my profile. Here, what you should know about me:</h3>
 
 <ul>
   <li>I am just trying to impart my knowledge via repositories which will be quite helpful for those who codes</li>
