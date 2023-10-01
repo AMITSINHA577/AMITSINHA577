@@ -1,5 +1,18 @@
+
 <h1 align="center">Hi 👋, I'm Amit Sinha</h1>
 <h3 align="center">A passionate software developer from India</h3>
+
+<h3>First of all, thanks for visiting my profile. Here, what you should know about me:
+
+</h3>
+
+<ul>
+  <li>I am just trying to impart my knowledge via repositories which will be quite helpful for those who codes</li>
+  <li>My primary coding language: Java.</li>
+  <li>I am a self driven passionate coder who loves to solve problems and write efficient codes.</li>
+  <li>I am looking forward to collaborate on Open-Source Projects.</li>
+  <li>I am happy to discuss about anything.</li>
+</ul>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
